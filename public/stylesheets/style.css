@@ -1,0 +1,51 @@
+header {
+    background-color: aquamarine;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header h1 a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+header nav a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+header nav div {
+    text-align: center;
+}
+
+header nav div a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+form {
+    background-color: aquamarine;
+}
+
+.column {
+    float: left;
+    width: 15%;
+}
+
+article div a {
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+footer {
+    text-align: center;
+    background-color: aquamarine;
+}
